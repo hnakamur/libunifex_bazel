@@ -1,0 +1,4 @@
+bazel-bin
+bazel-libunifex_bazel
+bazel-out
+bazel-testlogs

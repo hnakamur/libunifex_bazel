@@ -1,0 +1,3 @@
+#!/bin/bash -x
+bazel clean
+bazel build --sandbox_debug -s //src:libunifex
