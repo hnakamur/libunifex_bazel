@@ -1,3 +1,3 @@
 #!/bin/bash -x
 bazel clean
-bazel build --sandbox_debug -s //src:libunifex
+bazel build --sandbox_debug -s //src:io_uring_test
